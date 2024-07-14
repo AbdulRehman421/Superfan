@@ -1,0 +1,1 @@
+ /home/abdul421/Freelancer\ projects/superfan/.dart_tool/flutter_build/749ce155962e20b6402eeae9d5d8b7e2/native_assets.yaml: 

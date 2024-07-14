@@ -1,0 +1,1 @@
+ C:\\Users\\mahpa\\StudioProjects\\superfan\\.dart_tool\\flutter_build\\f9380ffcbc64e652f4da5b41108f5a7f\\native_assets.yaml: 

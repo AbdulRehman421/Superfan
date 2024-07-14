@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "755079856764",
+    "project_id": "superfan2024-4d84e",
+    "storage_bucket": "superfan2024-4d84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755079856764:android:29c9928c8ba4b052c53ff9",
+        "android_client_info": {
+          "package_name": "com.somu.superfan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755079856764-qsi4bl84vtfnsir9dvn53refg8t2uqgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB85iLKIq9nA-sAwn1NSLyG9NGyWj0xh8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755079856764-qsi4bl84vtfnsir9dvn53refg8t2uqgq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755079856764-k910u0r2gjbmvc4kraha15egibsrjh32.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.somu.superfan"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
